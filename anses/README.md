@@ -21,13 +21,19 @@ Assessment Type:
 * nslookup
   ![nslookup](screenshots/nslookup.png)
 * dig
+  ![dig](screenshots/dig.png)
 * amass
+  ![amass](screenshots/amass.png)
 * dnsenum
+* ![dnsenum](screenshots/dnsenum.png)
 * WhatWeb
 * Wappalyzer
+  ![wappalyzer_1](screenshots/wappalyzer_1.png)
+  ![wappalyzer_2](screenshots/wappalyzer_2.png)
 * BuiltWith
 * Browser Developer Tools
 * Nmap
+  ![nmap](screenshots/nmap.png)
 
 ## Methodology
 
