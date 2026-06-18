@@ -19,6 +19,7 @@ Assessment Type:
 ## Tools Used
 
 * nslookup
+  ![nslookup](screenshots/nslookup.png)
 * dig
 * amass
 * dnsenum
