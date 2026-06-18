@@ -25,7 +25,7 @@ Assessment Type:
 * amass
   ![amass](screenshots/amass.png)
 * dnsenum
-* ![dnsenum](screenshots/dnsenum.png)
+* ![dnsenum_1](screenshots/dnsenum_1.png)
 * WhatWeb
 * Wappalyzer
   ![wappalyzer_1](screenshots/wappalyzer_1.png)
@@ -33,7 +33,7 @@ Assessment Type:
 * BuiltWith
 * Browser Developer Tools
 * Nmap
-  ![nmap](screenshots/nmap.png)
+  ![nmap_1](screenshots/nmap_1.png)
 
 ## Methodology
 
