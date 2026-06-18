@@ -12,7 +12,9 @@ Web reconnaissance and attack surface analysis case studies conducted for educat
 ## Case Studies
 
 - ANSES
+  Web reconnaissance assessment focused on publicly available information and attack surface analysis.
 - Banco Credicoop
+  Web reconnaissance assessment focused on publicly available information and attack surface analysis.
 
 ## Disclaimer
 
